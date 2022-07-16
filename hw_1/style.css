@@ -1,0 +1,41 @@
+body {
+    background-color: #fff;
+}
+
+/* main styles */
+.main {
+    width: 1200px;
+    display: flex;
+    flex-direction: row-reverse;
+    background-color: #E6E6E6;
+    margin: 0 auto;
+    
+}
+
+.main-content {
+    padding: 50px 50px;
+    background-color: #FAFAFA;
+}
+
+/* about styles */
+.work {
+    margin-bottom: 40px;
+}
+
+.sidebar {
+    background-color: #2ECCFA;
+}
+
+.photo {
+    width:220px;
+    margin-bottom: 50px;
+}
+
+.about-name {
+    color:#fff;
+    font-size: 22px;
+    line-height: 27px;
+    margin-bottom: 10px;
+
+}
+
