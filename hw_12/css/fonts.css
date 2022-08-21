@@ -1,0 +1,31 @@
+@font-face {
+    font-family: 'Quicksand';
+    src: url('../fonts/Quicksand-Medium.ttf') format('truetype');
+    src: local('Quicksand-Medium'), local('Quicksand-Medium'),
+    font-weight: 500;
+    font-style: normal;
+}
+
+/*@font-face {
+    font-family: 'Roboto';
+    src: url('../fonts/Roboto-Regular.ttf') format('truetype');
+    src: local('Roboto-Regular'), local('Roboto-Regular'),
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Roboto';
+    src: url('../fonts/Roboto-Bold.ttf') format('truetype');
+    src: local('Roboto-SemiBold'), local('Roboto-SemiBold'),
+    font-weight: 600;
+    font-style: normal;
+}*/
+
+@font-face {
+    font-family: 'Nunito Sans';
+    src: url('../fonts/NunitoSans-SemiBold.ttf') format('truetype');
+    src: local('NunitoSans-SemiBold'), local('NunitoSans-SemiBold'),
+    font-weight: 600;
+    font-style: normal;
+}
