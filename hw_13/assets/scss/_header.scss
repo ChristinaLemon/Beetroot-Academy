@@ -1,0 +1,47 @@
+/*--HEADER--*/
+
+header {
+    margin-top: 121px;
+
+    h1 {
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 900;
+        font-size: 60px;
+        line-height: 66px;
+        text-align: center;
+        text-transform: uppercase;
+        color: #FFCC00;
+    
+    }
+    
+    h3 {
+        font-family: 'Raleway';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 18px;
+        line-height: 24px;
+        text-align: center;
+        text-transform: uppercase;
+        color: #898F8F;
+    }
+
+}
+
+.header-img {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+    &::before,
+    &::after {
+            content: "";
+            border: 1px solid #FFCC00;
+            width: 210px;
+            height: 1px;
+            display: flex;
+            
+    }
+    
+}
+
